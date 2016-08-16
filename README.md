@@ -1,16 +1,10 @@
 # বাংলা সাইটঃ
-# Bangla
 
-##Basic Problem solving--
+## Basic Problem solving
 https://binaryrongo.wordpress.com/
 
-##LINKS----
+## INKS
 http://www.progkriya.org/links/
-
-
-
-
-
 
 
 #English Sites
