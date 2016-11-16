@@ -2,6 +2,7 @@
 
 ## Basic Problem solving
 https://binaryrongo.wordpress.com/
+http://progalamin.blogspot.com/
 
 ## INKS
 http://www.progkriya.org/links/
